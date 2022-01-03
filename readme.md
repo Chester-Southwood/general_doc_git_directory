@@ -1,6 +1,5 @@
 # This is a general repo for notes on topics for reference.
 
-#### Todo
+#### Todos
 
 * Git doc file
-* Registry-Editor doc file
