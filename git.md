@@ -39,7 +39,7 @@ git log --graph --oneline --decorate
 ```
 **Squash**
 ```
-git rebase master --interactive
+git rebase main --interactive #do when working on feature branch, not directly on master/main
 ```
 # Sources
 
