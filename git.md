@@ -48,6 +48,10 @@ git fetch origin
 git reset --hard origin/master
 git clean -df #remove untracked directory/file(s)
 ```
+**Go to previous branch**
+```
+git checkout -
+```
 # Sources
 
 * [Stackoverflow tip for seeing all alias](https://stackoverflow.com/questions/7066325/list-git-aliases)
