@@ -17,7 +17,7 @@
     * fake caller ID
 * Design standpoint: The engineers knew about this "admin feature" and thought that normal people would not discover. This was the "Best Case Scenario", and a learning point in that you must always consider the "Worst-Case Scenario" when designing complex systems.
 
-#### 1950s - Telephone (Anti-Phreaking Technology, Circa 1960)
+#### 1960s - Telephone (Anti-Phreaking Technology, Circa 1960)
 
 **Duel Tone Multifrequency Signaling** (DTMF / Touch Dials): Each button is tied to two specific audio frequencies via row/column instead of a single frequency like the original invented by Bell Systems. Instead of Phreakers being able to mimic a simple sound, a complex sound made by multiple instruments was much more difficult to mimic (such as voice/Whistle).
 
