@@ -64,3 +64,8 @@ CSC -> encrypted text (gibberish)
 --------
 BRO -> text
 ```
+
+# Sources
+
+* [XOR Cipher Wikipedia](https://en.wikipedia.org/wiki/XOR_cipher)
+* [Caesar Cipher Wikipedia](https://en.wikipedia.org/wiki/Caesar_cipher)
