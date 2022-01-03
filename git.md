@@ -52,6 +52,11 @@ git clean -df #remove untracked directory/file(s)
 ```
 git checkout -
 ```
+**Set repo origin**
+```
+git remote add origin [repo-url] #if not set
+git remote set-url origin [repo-url] #if already set and updating to new origin
+```
 # Sources
 
 * [Stackoverflow tip for seeing all alias](https://stackoverflow.com/questions/7066325/list-git-aliases)
