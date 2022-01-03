@@ -41,8 +41,17 @@ git log --graph --oneline --decorate
 ```
 git rebase main --interactive #do when working on feature branch, not directly on master/main
 ```
+
+**Cleanup/Destroy all local changes**
+```
+git fetch origin
+git reset --hard origin/master
+git clean -df #remove untracked directory/file(s)
+```
 # Sources
 
 * [Stackoverflow tip for seeing all alias](https://stackoverflow.com/questions/7066325/list-git-aliases)
 * [13 Advanced (but useful) Git Techniques and Shortcuts
 ](https://www.youtube.com/watch?v=ecK3EnyGD8o&ab_channel=Fireship)
+* [Combining Git commits with squash
+](https://www.youtube.com/watch?v=V5KrD7CmO4o&ab_channel=TheModernCoder)
