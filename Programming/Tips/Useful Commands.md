@@ -1,5 +1,4 @@
 # Text Based Commands
-
 | Key | Action |
 | --- | ----------- |
 | Ctrl + X | Cut Line |
@@ -11,7 +10,6 @@
 | WIN  + . | Emoji Panel |
 
 # Window Apps
-
 | Key | Action |
 | --- | ----------- |
 | WIN + Tab | Switch between open desktops |
