@@ -1,3 +1,1 @@
-# This is a general repo for notes on topics for reference.
-
-#### Todos
+This is a general repo for notes on topics for reference.
