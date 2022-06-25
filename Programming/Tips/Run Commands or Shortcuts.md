@@ -22,7 +22,3 @@ In the path "Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersi
 ## Symlink
 
 mklink /D Hearthstone D:\Battlenet\Hearthstone
-
-## Find all empty directories
-
-find . -type d -empty (linux - git-bash)
