@@ -57,3 +57,4 @@
 * [Windows 10 Official Shortcuts](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 * [Official Intellij Shortcuts](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html)
 * [Official Chrome Shortcuts](https://support.google.com/chrome/answer/157179?hl=en&co=GENIE.Platform%3DDesktop&oco=1#zippy=%2Ctab-window-shortcuts%2Cgoogle-chrome-feature-shortcuts%2Cmouse-shortcuts%2Cwebpage-shortcuts%2Caddress-bar-shortcuts)
+* [Windows 10 Settings](https://www.computerworld.com/article/3218116/how-to-make-shortcuts-to-windows-10-settings-on-your-desktop.html)

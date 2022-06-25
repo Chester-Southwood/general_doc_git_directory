@@ -21,4 +21,11 @@ In the path "Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersi
 
 ## Symlink
 
-mklink /D Hearthstone D:\Battlenet\Hearthstone
+```bash 
+# Create a file symlink with no flag
+mklink Awesome_story.txt "C:\Windows\Users\Lee\Desktop\Awesome_story.txt"
+
+# Create a directory symlink with \D
+mklink /D Hearthstone "D:\Battlenet\Hearthstone"
+```
+* [Complete Guide to Symbolic Links Symlinks on Windows or Linux](https://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/)
