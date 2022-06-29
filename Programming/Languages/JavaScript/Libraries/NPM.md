@@ -54,3 +54,7 @@ The package.json file is a key element in lots of app codebases based on the Nod
   }
 }
 ```
+
+# Useful command to delete all node_modules recursively
+``` find . -name "node_modules" -type d -prune -exec rm -rf '{}' +```
+https://betterprogramming.pub/npkill-the-easy-solution-to-deleting-node-modules-with-style-1c591126f7a5
