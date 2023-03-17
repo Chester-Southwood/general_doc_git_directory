@@ -10,8 +10,9 @@ In the path "Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersi
 * Verify it works by attempting to run it using the RUN Command (Windows+R)
 
 ## Add shortcuts to Run Command
-*  Place the shortcut in the "C:\Windows" directory.
-   *  Note - Does not work for "Internet Shortcuts"
+
+* Place the shortcut in the "C:\Windows" directory.
+  * Note - Does not work for "Internet Shortcuts"
 
 ## Add programs to be recognized by command line
 
@@ -21,11 +22,12 @@ In the path "Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersi
 
 ## Symlink
 
-```bash 
+```bash
 # Create a file symlink with no flag
 mklink Awesome_story.txt "C:\Windows\Users\Lee\Desktop\Awesome_story.txt"
 
 # Create a directory symlink with \D
 mklink /D Hearthstone "D:\Battlenet\Hearthstone"
 ```
+
 * [Complete Guide to Symbolic Links Symlinks on Windows or Linux](https://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/)

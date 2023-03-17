@@ -1,15 +1,18 @@
 # Use Intention Revealing Names
+
 * It takes time at start for proper names, but saves more time during lifespan of project.
 * Should reveal purpose in name **NOT IN A COMMENT**
 * It doesn't make the logic less complex, but increases the understandability to who is reading it.
 
 # Avoid Disinformation
+
 * Abbreviations that already exist can cause confusion if used.
 * Calling something in a abstract way like list when it isn't is bad information.
 * Names that look almost identical can cause problems.
 * Inconsistant spelling and symbols that look like others can cause problems, better to rename
 
 # Make meaningful Distinctions
+
 * Having klasses to satisfy compiler leads to confusion.
 * Number series naming is too abstract. a1, a2...
 * Noise/Common used words leads to unintended assumption, make it clear uniquely when possible.
@@ -20,16 +23,19 @@
 * Distinquishable names allow the reader to know the difference it offers.
 
 # Use Pronounceable Names
+
 * Can't discuss it outloud without sounding like an idiot.
   * Tolerating it can be funny when in on joke, but will give headaches for those not in on joke.
 
 # Use Searchable Names
+
 * Variable names with numbers or symbols can cause searchability through things like GREP difficulty.
 * Longer names trump shorter names, and any searchable name trumps a constant in code.
 * Bob's personal option is that single word variable names should exist with local variables in short methods
   * **The length of a name should correspond to the size of its scope.**
 
 # Avoid Encodings
+
 * Hungarian Notation: An identifier naming convention in computer programming, in which the name of a variable or function indicates its intention or kind, and in some dialects its type.
   * It serves no purpose in modern languages where typing is done by the compiler where programmers do not need a crutch to have the type of variable in the name.
     * The name won't be changed explicitly unless they change it when changing the type.
@@ -72,6 +78,7 @@
   * Shorter names are generally better than longer ones, so long as they are clear. Add no more context to a name than is necessary.
 
 # Final Words
+
 * Not a easy skill, learned from experience.
 * Should not feel ashamed when adding a commit to change a name, should be accepted with proper critique like any other code change.
 * Refactoring tools are avaliable with your IDE, use them.
